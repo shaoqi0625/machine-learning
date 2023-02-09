@@ -1,0 +1,148 @@
+C:\Users\86139\AppData\Local\Programs\Python\Python39\python.exe D:/LeNet5_numpy/main.py
+Load images from ('mnist_data/train-images.idx3-ubyte', 'mnist_data/train-labels.idx1-ubyte'), number: 60000, data shape: (60000, 28, 28)
+Load images from ('mnist_data/t10k-images.idx3-ubyte', 'mnist_data/t10k-labels.idx1-ubyte'), number: 10000, data shape: (10000, 28, 28)
+load data finished
+---------- epoch 1 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [06:44<00:00, 18.54it/s]
+errors of training set: 3541 / 60000
+errors of testing set: 566 / 10000
+Time used: 445.04279947280884 sec
+---------- epoch 1 end ------------
+---------- epoch 2 begin ----------
+Training:
+100%|██████████| 7500/7500 [06:48<00:00, 18.34it/s]
+errors of training set: 2030 / 60000
+errors of testing set: 320 / 10000
+Time used: 448.58250093460083 sec
+---------- epoch 2 end ------------
+---------- epoch 3 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [06:47<00:00, 18.40it/s]
+errors of training set: 1782 / 60000
+errors of testing set: 277 / 10000
+Time used: 449.9124946594238 sec
+---------- epoch 3 end ------------
+---------- epoch 4 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:14<00:00, 17.28it/s]
+errors of training set: 1388 / 60000
+errors of testing set: 231 / 10000
+Time used: 503.69272327423096 sec
+---------- epoch 4 end ------------
+---------- epoch 5 begin ----------
+Training:
+100%|██████████| 7500/7500 [07:11<00:00, 17.40it/s]
+errors of training set: 1181 / 60000
+errors of testing set: 211 / 10000
+Time used: 474.4860727787018 sec
+---------- epoch 5 end ------------
+---------- epoch 6 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:14<00:00, 17.24it/s]
+errors of training set: 1264 / 60000
+errors of testing set: 223 / 10000
+Time used: 474.37143778800964 sec
+---------- epoch 6 end ------------
+---------- epoch 7 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:14<00:00, 17.27it/s]
+errors of training set: 873 / 60000
+errors of testing set: 181 / 10000
+Time used: 473.64023184776306 sec
+---------- epoch 7 end ------------
+---------- epoch 8 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:12<00:00, 17.34it/s]
+errors of training set: 836 / 60000
+errors of testing set: 178 / 10000
+Time used: 471.4139461517334 sec
+---------- epoch 8 end ------------
+---------- epoch 9 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:18<00:00, 17.09it/s]
+errors of training set: 823 / 60000
+errors of testing set: 179 / 10000
+Time used: 481.53190660476685 sec
+---------- epoch 9 end ------------
+---------- epoch 10 begin ----------
+Training:
+100%|██████████| 7500/7500 [07:13<00:00, 17.30it/s]
+errors of training set: 741 / 60000
+errors of testing set: 168 / 10000
+Time used: 473.10857915878296 sec
+---------- epoch 10 end ------------
+---------- epoch 11 begin ----------
+Training:
+100%|██████████| 7500/7500 [07:14<00:00, 17.27it/s]
+errors of training set: 661 / 60000
+errors of testing set: 160 / 10000
+Time used: 477.1777753829956 sec
+---------- epoch 11 end ------------
+---------- epoch 12 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:14<00:00, 17.26it/s]
+errors of training set: 654 / 60000
+errors of testing set: 169 / 10000
+Time used: 475.48717403411865 sec
+---------- epoch 12 end ------------
+---------- epoch 13 begin ----------
+Training:
+100%|██████████| 7500/7500 [07:21<00:00, 16.98it/s]
+errors of training set: 605 / 60000
+errors of testing set: 164 / 10000
+Time used: 483.3095374107361 sec
+---------- epoch 13 end ------------
+---------- epoch 14 begin ----------
+Training:
+100%|██████████| 7500/7500 [07:16<00:00, 17.18it/s]
+errors of training set: 474 / 60000
+errors of testing set: 133 / 10000
+Time used: 477.0869846343994 sec
+---------- epoch 14 end ------------
+---------- epoch 15 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:15<00:00, 17.23it/s]
+errors of training set: 509 / 60000
+errors of testing set: 150 / 10000
+Time used: 475.8141508102417 sec
+---------- epoch 15 end ------------
+---------- epoch 16 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:13<00:00, 17.28it/s]
+errors of training set: 758 / 60000
+errors of testing set: 201 / 10000
+Time used: 473.86759972572327 sec
+---------- epoch 16 end ------------
+---------- epoch 17 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:13<00:00, 17.29it/s]
+errors of training set: 492 / 60000
+errors of testing set: 137 / 10000
+Time used: 473.91002368927 sec
+---------- epoch 17 end ------------
+---------- epoch 18 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:13<00:00, 17.30it/s]
+errors of training set: 471 / 60000
+errors of testing set: 144 / 10000
+Time used: 473.9975974559784 sec
+---------- epoch 18 end ------------
+---------- epoch 19 begin ----------
+Training:
+100%|██████████| 7500/7500 [07:15<00:00, 17.21it/s]
+errors of training set: 375 / 60000
+errors of testing set: 135 / 10000
+Time used: 476.10548067092896 sec
+---------- epoch 19 end ------------
+---------- epoch 20 begin ----------
+  0%|          | 0/7500 [00:00<?, ?it/s]Training:
+100%|██████████| 7500/7500 [07:16<00:00, 17.18it/s]
+errors of training set: 394 / 60000
+errors of testing set: 136 / 10000
+Time used: 476.9383578300476 sec
+---------- epoch 20 end ------------
+Total time used: 9459.48237323761 sec
+accuracy rate: 0.9864
+
+Process finished with exit code 0
